@@ -1,0 +1,10 @@
+/*
+  Localizable.strings
+ ___PROJECTNAME___
+
+  Created by ___FULLUSERNAME___ on ___DATE___.
+  Copyright © 2023 cnsgta. All rights reserved.
+*/
+
+"tab_home" = "Home";
+"home_title" = "Pre-flight Safety Inspection";

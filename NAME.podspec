@@ -57,5 +57,7 @@ TODO: Add long description of the pod here.
   # s.vendored_libraries = 'HCYCore'
   
   # s.dependency 'AFNetworking', '~> 2.3'
-  
+  s.dependency 'HCYBaseUICore',                     '1.0.6'
+  s.dependency 'HCYBaseCore',                       '1.0.6'
+  s.dependency 'HCYLocalizationKit',                '1.0.6'
 end
