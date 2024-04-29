@@ -1,9 +1,9 @@
 //
-//  SCHomeViewController.swift
-//  SCTempHomeCenterBC
+//  SCHomeCenterViewController.swift
+//  SCHomeCenterBC
 //
 //  Created by SanW on 2024/1/10.
-//  Copyright © 2024 hcytech. All rights reserved.
+//  Copyright © 2024 ByteJump. All rights reserved.
 //
 //  summary:<#summary#>
 //
@@ -12,7 +12,7 @@ import HCYBaseUICore
 import HCYUIKit
 import UIKit
 
-class AIHomeViewController: HCYWebViewController {
+class SCHomeCenterViewController: HCYWebViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         progresslayerY = cDeviceIPhoneStatusBarHei
