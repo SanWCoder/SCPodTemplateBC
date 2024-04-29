@@ -8,7 +8,14 @@ target '${POD_NAME}_Example' do
 #  source 'http://xxxx:8888/Specs.git'
 #
 #  # Pods-for-testing
-#  pod 'UtilsKit',                           :path => '../../../UtilsKit/Trunk'
+#  pod 'HCYUtilsKit',                        :path => '../../../HCYUtilsKit/Trunk'
+#  pod 'HCYUIKit',                           :path => '../../../HCYUIKit/Trunk'
+#  pod 'HCYNetRequestKit',                   :path => '../../../HCYNetRequestKit/Trunk'
+#  pod 'HCYLocalizationKit',                 :path => '../../../HCYLocalizationKit/Trunk'
+#  pod 'HCYMediatorKit',                     :path => '../../../HCYMediatorKit/Trunk'
+#  pod 'HCYBaseCore',                        :path => '../../../HCYBaseCore/Trunk'
+#  pod 'HCYBaseUICore',                      :path => '../../../HCYBaseUICore/Trunk'
+#  pod 'HCYLoginCenterEC',                   :path => '../../../HCYLoginCenterEC/Trunk'
 
   pod '${POD_NAME}', :path => '../'
 
